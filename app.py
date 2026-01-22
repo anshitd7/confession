@@ -320,8 +320,8 @@ elif datetime.now() < st.session_state.timer_start + timedelta(minutes=COUNTDOWN
     
     st.markdown("""
     <div class='notice-box' style='border-left: 4px solid #FFD700; color: #fffacd; background: rgba(255, 215, 0, 0.05);'>
-    <b>DO NOT CLOSE THE TAB!</b><br>
-    Please read carefully. This might be the last message from Anshit. You may also never see Anshit again.<br>
+    <b> Please read carefully</b><br>
+    DO NOT CLOSE THE TAB! This might be the last message from Anshit. You may also never see Anshit again.<br>
     The story will open shortly.
     </div>
     """, unsafe_allow_html=True)
