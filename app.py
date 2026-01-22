@@ -345,7 +345,7 @@ elif datetime.now() < st.session_state.timer_start + timedelta(minutes=COUNTDOWN
 # PHASE 4: THE CONFESSION LETTER
 # -------------------------
 else:
-    st.markdown("<div class='main-title' style='font-size:3rem; margin-bottom: 20px;'>The Confession</div>", unsafe_allow_html=True)
+    st.markdown("<div class='main-title' style='font-size:3rem; margin-bottom: 20px;'>The Last Message</div>", unsafe_allow_html=True)
     
     # The Text Content (Unchanged)
     MESSAGE_BODY = """ Hello Vaibhavi,
