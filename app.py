@@ -6,7 +6,7 @@ import time
 # CONFIGuration
 # =========================
 PASSWORD = "byebyevaibhavi"
-COUNTDOWN_MINUTES = 8
+COUNTDOWN_MINUTES = 1
 
 # =========================
 # PAGE SETUP
@@ -348,14 +348,14 @@ else:
     st.markdown("<div class='main-title' style='font-size:3rem; margin-bottom: 20px;'>The Last Message</div>", unsafe_allow_html=True)
     
     # The Text Content (Unchanged)
-    MESSAGE_BODY = """ Hello Vaibhavi, 
+    MESSAGE_BODY = """ Hello Vaibhavi, tereko agar ye padhna pad raha toh iska mtlb agle kuch ghnto me mai tereko block kar doonga! Tereko ajse kabhi mai dikh bhi jau toh shyad naa pehchane ki acting karru lekin mai andar se khush hounga tereko dekhkr.
 Tereko romantic novels pasand hain na, aaj ek kahani sunata hoon.
 
 Ek ladka tha, uska naam Yash. Uska breakup bahut kharaab hua tha—itna kharaab ki vo mentally kaafi down rehne laga. Usne apne kisi dost ko breakup ka asli reason nahi bataya. Uske andar ek toofan sa ban gaya tha. Uparwale ki kripa se uski ek dost thi, jisko usne sab bata diya, aur dheere-dheere usse baatein karte-karte vo thoda theek hone laga.
 
-Us phase mein usne life ke baare mein bahut kuch seekha. Apna mann bhatakane ke liye usne kaafi cheezein try ki—dating apps, dates par jaana—par phir bhi dil ke kisi kone mein ye umeed thi ki shayad uski ex kabhi wapas aa jaaye, kabhi contact kare. Par aisa kabhi nahi hua. Apni dost ki help aur uski advice ki wajah se, vo dheere-dheere mentally strong banne laga, apni ex ko bhoolta gaya, aur wapas ek normal insaan ban gaya.
+Us phase mein usne life ke baare mein bahut kuch seekha. Apna man bhatakane ke liye usne kaafi cheezein try ki—dating apps, dates par jaana—par phir bhi dil ke kisi kone mein ye umeed thi ki shayad uski ex kabhi wapas aa jaaye, kabhi contact kare. Par aisa kabhi nahi hua. Apni dost ki help aur uski advice ki wajah se, vo dheere-dheere mentally strong banne laga, apni ex ko bhoolta gaya, aur wapas ek normal insaan ban gaya.
 
-Lekin is waqt ek change aa chuka tha. Usne khud se promise kiya ki college mein vo kisi bhi ladki ko apna dil nahi dega, kisi se attach nahi hoga. Kyunki use lagta tha ki jisse bhi vo attach hoga, vo aakhir mein chhod ke chali jaayegi, aur use phir se usi dard se guzarna padega. Isi soch ke saath vo apni zindagi mein aage badhne laga. Dheere-dheere, vo phir se life enjoy karne laga—thanks to his friend as well.
+Lekin is waqt ek change aa chuka tha. Usne khud se promise kiya ki college mein vo kisi bhi ladki ko apna dil nahi dega, kisi se attach nahi hoga. Kyunki use lagta tha ki jisse bhi vo attach hoga, vo aakhir mein chhod ke chali jaayegi, aur usko phir se usi dard se guzarna padega. Isi soch ke saath vo apni zindagi mein aage badhne laga. Dheere-dheere, vo phir se life enjoy karne laga—thanks to his friend as well.
 
 Phir ek din campus mein uski mulaqat ek ladki se hui. Haalaat aise the ki vo dono saath kaam karne lage the. Dheere-dheere ye casual teammates ya colleagues wali baat dosti mein badal gayi. Ladke ko bhi accha lagne laga ki campus mein uski ek acchi female friend ban gayi hai jiske sang vo khulke baat kar sakke.
 
@@ -373,7 +373,7 @@ Par jab bhi vo apni dost ka pyaara masoom sa chehra dekhta, vo gussa reh hi nahi
 
 Kabhi-kabhi vo shaant ho jaata tha, kabhi ajeeb sa behave karne lagta tha achanak. Uski dost ko bhi pareshani hone lagi ki use kya ho gaya hai. Kaash vo ladka bata paata… par vo nahi chahta tha ki vo kabhi us par burden bane. Vo bilkul nahi chahta tha ki uski dost kabhi is topic par soche, ya unki itni pyaari dosti par koi asar pade.
 
-Vo ladka roz Bhagwan se pray karta tha ki sab theek ho jaaye, kyunki ab usse sambhala nahi ja raha tha. Vo is had tak tayaar tha ki uski dost ka koi boyfriend ban jaaye, aur fir uski dost dheered dheere usse kabhi baat hi na kare—sirf isliye taaki uski dost khush rahe, aur shayad time ke saath vo khud bhi theek ho jaaye.
+Vo ladka roz Bhagwan se pray karta tha ki sab theek ho jaaye, kyunki ab usse sambhala nahi ja raha tha. Vo is had tak tayaar tha ki uski dost ka koi boyfriend ban jaaye, aur fir uski dost dheere dheere usse kabhi baat hi na kare—sirf isliye taaki uski dost khush rahe, aur shayad time ke saath vo khud bhi theek ho jaaye.
 
 Par uske andar itni himmat nahi thi ki vo khud uski dost ke liye koi ladka dhundh ke laaye, kyunki andar se vo ye bilkul nahi chahta tha ki vo kisi aur ke saath chali jaaye.
 
@@ -396,6 +396,7 @@ I really love you.
 Mai umeed karta hoon ki tujhe ek bahut accha partner mile—jo teri har baat maane, aur bilkul teri type ka ho, jiske sang tu khush aur safe rahe. Kya pata shayad pehle se hi ho tere pass!
 Mujhe ek acche insaan ki tarah yaad rkhna, jo shayad teri help karne aaya tha… par tujhse hi itna pyaar kar baitha.
 
+Mereko dar tha tu mereko bss baaki sbke tarah naveen ya koi aur jaise samjhegi, isliye mai nahi bata raha tha, mai tereko iss maamle me bilkul pareshan nahi karna chahta, isliye mai khud hi jaa raha hu, tu bas apna dhyan rakhna , padhai karte rehna, mai hamesha yaad rkahunga tereko!
 Aur bhi bahut si baatein reh gayi hain jo kehni thi, par shayad ab aur nhi..
 You are very lucky tere aur bhi dost hai, acche se rehna unke sang.
 
@@ -407,7 +408,7 @@ Dil se bata raha hu, maine Terese jyda cute creature aj tak nhi dekha…maine za
 Mai hamesha bolta tha mai jyda cute hu, but sachai yehi hai I JUST ADORE YOU SO MUCH, itna pyaara koi kaise ho sakta hai , tu itni pyaari kaise hai!
 Tu bahut pyaari si squirrel jo hamesha mere yaado me rahegi. 
 
-Mai Tera call naa uthau ajse toh please gussa mat karna, maaf kar dena aakhri baar.
+Mai Tera call naa uthau , raaste me hi naa bolu ajse toh please gussa mat karna,  maaf kar dena aakhri baar.
 
 Bye, Vaibhavi.
 I am sorry.
