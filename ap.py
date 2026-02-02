@@ -149,7 +149,7 @@ st.markdown("<div class='subtitle'>A story that needs to be told...</div>", unsa
 MESSAGE_BODY = """Hello Vaibhavi,
 Abhi intern khatam ho gayi hai aomost toh vo password dene ka time aa gaya tereko. Mai shayad de bhi doonga bahut jald.
 Ye message bss ek reminder hai ki jab tu vo sab padh legi toh mereko bss galat mat samjhna aur baakiyo ki tarah mat samjhna.
-Ab vaise bhi tereko aage sabhi life me dikkato ka saamna khudse karna hoga, isliye acche se padhai karna, plzacment le aur daffa hoja mere saamne se!
+Ab vaise bhi tereko aage sabhi life me dikkato ka saamna khudse karna hoga, isliye acche se padhai karna, placement le aur daffa hoja mere saamne se!
 """
 
 # Render the Letter with the Link (NO INDENTATION FIX)
