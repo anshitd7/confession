@@ -392,13 +392,16 @@ Main ye sab face-to-face nahi keh paaya, aur yahi baat mujhe andar se khaaye ja 
 I am sorry ki main hamari itni pyaari dosti ko is situation tak le aaya. Tune mujhe itni khoobsurat memories di hain—main hamesha yaad rakhunga tujhe, aur tera “Jerry” wala gusse ka face. Ab koi nahi hai jisko main gussa dila paun… I will miss you.
 
 I really love you.
+Dont Worry, mai tere koi list me waitlist ka part nahi banna chahta, mai vaisa nahi hu aur mai nahi chahta tu mereko vaisa samjhe, maine tereko jitna bhi kuch diya hai gifts me, tereko impress karne ke liye kabhi nahi diya, aisa mat sochna ki shuru se try maar tha yaa aisa kuch, bas tereko purely khush karne ke intention se diya tha.
+Mainly bas yehi chahta tu mereko galat yaa har koi doosre ki tarah naa samjhe! Mere intentions kabhi fake yaa tereko impress karne ke liye **nhai** the.
+Bas tu itna samjhegi toh bhi khush rahunga!
 
-Mai umeed karta hoon ki tujhe ek bahut accha partner mile—jo teri har baat maane, aur bilkul teri type ka ho, jiske sang tu khush aur safe rahe. Kya pata shayad pehle se hi ho tere pass!
+Mai umeed karta hoon ki tujhe ek bahut accha partner mile—jo teri har baat maane, aur bilkul teri type ka ho, jiske sang tu khush aur safe rahe.
 Mujhe ek acche insaan ki tarah yaad rkhna, jo shayad teri help karne aaya tha… par tujhse hi itna pyaar kar baitha.
 
-Mereko dar tha tu mereko bss baaki sbke tarah naveen ya koi aur jaise samjhegi, isliye mai nahi bata raha tha, mai tereko iss maamle me bilkul pareshan nahi karna chahta, isliye mai khud hi jaa raha hu, tu bas apna dhyan rakhna , padhai karte rehna, mai hamesha yaad rkahunga tereko!
+Mereko dar tha tu mereko bss baaki sbke tarah samjhegi jo tere peeche pade hai, isliye mai nahi bata raha tha, mai tereko iss maamle me bilkul pareshan nahi karna chahta, isliye mai khud hi jaa raha hu, tu bas apna dhyan rakhna , padhai karte rehna, mai hamesha yaad rkahunga tereko!
 Aur bhi bahut si baatein reh gayi hain jo kehni thi, par shayad ab aur nhi..
-You are very lucky tere aur bhi dost hai, acche se rehna unke sang.
+You are lucky tere aur bhi dost hai, acche se rehna unke sang.
 
 Pehli baar likhte-likhte meri aankhen moist ho gayi hain.
 Shayad ab mera kaam bhi khatam ho gaya hai… aur mujhe chale jaana chahiye.
@@ -412,7 +415,7 @@ Mai Tera call naa uthau , raaste me hi naa bolu ajse toh please gussa mat karna,
 
 Bye, Vaibhavi.
 I am sorry.
-Main teri saheli banke nahi reh paaya."""
+Main teri saheli banke nahi reh paaya. Sacchi yaar itni jldi good-bye nahi kehna tha merekoo."""
 
     # Render with the paper effect
     st.markdown(f"""
