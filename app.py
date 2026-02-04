@@ -351,7 +351,7 @@ else:
     MESSAGE_BODY = """ Hello Vaibhavi, tereko agar ye padhna pad raha toh iska mtlb shyd mai tereko kabhi bata nahi paaya face to face, shayad kuch ghanto me tereko hamesha ke liye block bhi krna hoga!Lekin yaad rkhna, agar kabhi galti se dekh bhi liya tereko, shyad naa pehchane ki acting karru but andar se I'll be really happy. 
     Happy Reading!
     (mai isliye kuch face to face nahi bata paaya kyui muze aadat nahi hai!)
-    
+
 Tereko romantic novels pasand hain na, aaj ek kahani sunata hoon.
 
 Ek ladka tha, uska naam Yash. Uska breakup bahut kharaab hua tha—itna kharaab ki vo mentally kaafi down rehne laga. Usne apne kisi dost ko breakup ka asli reason nahi bataya. Uske andar ek toofan sa ban gaya tha. Uparwale ki kripa se uski ek dost thi, jisko usne sab bata diya, aur dheere-dheere usse baatein karte-karte vo thoda theek hone laga.
@@ -399,7 +399,6 @@ Dont Worry, mai tere koi list me waitlist ka part nahi banna chahta, mai vaisa n
 Mainly bas yehi chahta tu mereko galat yaa har koi doosre ki tarah naa samjhe! Mere intentions kabhi fake yaa tereko impress karne ke liye **nhai** the.
 Bas tu itna samjhegi toh bhi khush rahunga!
 
-Mai umeed karta hoon ki tujhe ek bahut accha partner mile—jo teri har baat maane, aur bilkul teri type ka ho, jiske sang tu khush aur safe rahe.
 Mujhe ek acche insaan ki tarah yaad rkhna, jo shayad teri help karne aaya tha… par tujhse hi itna pyaar kar baitha.
 
 Mereko dar tha tu mereko bss baaki sbke tarah samjhegi jo tere peeche pade hai, isliye mai nahi bata raha tha, mai tereko iss maamle me bilkul pareshan nahi karna chahta, isliye mai khud hi jaa raha hu, tu bas apna dhyan rakhna , padhai karte rehna, mai hamesha yaad rkahunga tereko!
