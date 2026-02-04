@@ -350,6 +350,7 @@ else:
     # The Text Content (Unchanged)
     MESSAGE_BODY = """ Hello Vaibhavi, tereko agar ye padhna pad raha toh iska mtlb shyd mai tereko kabhi bata nahi paaya face to face, shayad kuch ghanto me tereko hamesha ke liye block bhi krna hoga!Lekin yaad rkhna, agar kabhi galti se dekh bhi liya tereko, shyad naa pehchane ki acting karru but andar se I'll be really happy. 
     Happy Reading!
+    (mai isliye kuch face to face nahi bata paaya kyui muze aadat nahi hai!)
     
 Tereko romantic novels pasand hain na, aaj ek kahani sunata hoon.
 
