@@ -348,7 +348,9 @@ else:
     st.markdown("<div class='main-title' style='font-size:3rem; margin-bottom: 20px;'>The Last Message</div>", unsafe_allow_html=True)
     
     # The Text Content (Unchanged)
-    MESSAGE_BODY = """ Hello Vaibhavi, tereko agar ye padhna pad raha toh iska mtlb shyd mai tereko kabhi bata nahi paaya face to face, shayad kuch ghanto me tereko hamesha ke liye block bhi krna hoga!
+    MESSAGE_BODY = """ Hello Vaibhavi, tereko agar ye padhna pad raha toh iska mtlb shyd mai tereko kabhi bata nahi paaya face to face, shayad kuch ghanto me tereko hamesha ke liye block bhi krna hoga!Lekin yaad rkhna, agar kabhi galti se dekh bhi liya tereko, shyad naa pehchane ki acting karru but andar se I'll be really happy. 
+    Happy Reading!
+    
 Tereko romantic novels pasand hain na, aaj ek kahani sunata hoon.
 
 Ek ladka tha, uska naam Yash. Uska breakup bahut kharaab hua tha—itna kharaab ki vo mentally kaafi down rehne laga. Usne apne kisi dost ko breakup ka asli reason nahi bataya. Uske andar ek toofan sa ban gaya tha. Uparwale ki kripa se uski ek dost thi, jisko usne sab bata diya, aur dheere-dheere usse baatein karte-karte vo thoda theek hone laga.
